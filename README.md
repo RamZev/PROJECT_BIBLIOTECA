@@ -22,7 +22,7 @@ En la advertencia, de click al botón **Confiar en la carpeta y continuar**
 10. En la pregubnta: **¿Confía en los autores de los archivos de esta carpeta?**
 De click al botón **Si, confío en los autores**
 11. Cierre la Pestaña de **Bienvenido**
-![image](https://github.com/user-attachments/assets/039a99c4-37a4-4692-9c9c-6bb5041b59ed)
+![image](https://github.com/user-attachments/assets/031a2c4f-ba08-489a-9b98-cd35b4556073)
 12. En el menú de VSC vaya a la opción **Terminal** y luego seleccione **Nuevo Terminal**
 13. En la parte inferior de VSC observará lo siguiente:
 ![image](https://github.com/user-attachments/assets/df947634-583b-4353-ba25-6ee623b37d2e)
@@ -31,7 +31,7 @@ con la instrucción: **pip install virtualenv**
 ![image](https://github.com/user-attachments/assets/d88e5301-c592-4680-b628-73e2cd5e468e)
 16. El paquete **virtualenv** nos permite crear el entorno virtual para el Proyecto.
 Es indispensable, tener instalado el lenguaje Python, versión 3.11 o superior, antes de crear el entorno virtual.
-Para crear el entorno virtual, escribimos la siguiente instrucción: **python -m virtualenv venv**
+Para crear el entorno virtual, escribimos la siguiente instrucción: **python -m virtualenv venv**  
 ![image](https://github.com/user-attachments/assets/6e771e70-71f4-4a59-9e3d-a9f12d805cab)
 
 
