@@ -29,17 +29,43 @@ De click al botón **Si, confío en los autores**
 14. En caso no tenga instalado el paquete virtualenv, proceda a instalarlo desde el terminal
 con la instrucción: **pip install virtualenv**  
 ![image](https://github.com/user-attachments/assets/d88e5301-c592-4680-b628-73e2cd5e468e)
-16. El paquete **virtualenv** nos permite crear el entorno virtual para el Proyecto.
+15. El paquete **virtualenv** nos permite crear el entorno virtual para el Proyecto.
 Es indispensable, tener instalado el lenguaje Python, versión 3.11 o superior, antes de crear el entorno virtual.
 Para crear el entorno virtual, escribimos la siguiente instrucción: **python -m virtualenv venv**  
 ![image](https://github.com/user-attachments/assets/6e771e70-71f4-4a59-9e3d-a9f12d805cab)
-17. Ahora procesa a activar el entorno virtual con la instrucción: **venv\Scripts\activate**
+16. Ahora procesa a activar el entorno virtual con la instrucción: **venv\Scripts\activate**
 ![image](https://github.com/user-attachments/assets/0e3b9536-25c4-4660-a98e-adb341e9b548)  
 Si la activación fue coorecta, al lado izquierdo del Prompt debe aparecer: **(venv)**
 En caso no aparezca, repita la secuencia relativa al entorno virtual.
-18. Ahora proceda a instalar las dependencias del Proyecto, identificadas en **requiremets.txt**
+17. Ahora proceda a instalar las dependencias del Proyecto, identificadas en **requiremets.txt**
+Para ello, esciba la instrucción: **pip install -r requirements.txt**
+![image](https://github.com/user-attachments/assets/0b793425-885b-4db7-9241-52f122ee1076)
+18. Ahora, trasládese a la carpeta del Proyecto:  
+![image](https://github.com/user-attachments/assets/218880d0-ef34-48ed-ba97-04a545a4894d)
+19. Ahora, levante el servidor de desarrollo de Django con la instrucción: **python manage.py runserver**
+![image](https://github.com/user-attachments/assets/dad26fad-c0ee-40ad-9312-849b2553708b)
+20. Ahora, presione la tecla CTRL y simultáneamente, de click a la dirección IP mostrada en el Terminal.  
+Luego vaya a la pestña de su navegador que está de modo intermitente y le da click, observará:  
+![image](https://github.com/user-attachments/assets/dab05264-5eed-488c-a5bc-d5d724fa8be9)
 
-20. 
+Usuario: adm
+Contraseña: adm54321$$
+
+**Autor Principal:**  
+**Ricardo Ramos Zevallos**  
+pythondevs2024@gmail.com  
++51 983981484  
+* Ingeniería de Sistemas  
+* Ingeniería de Software  
+* Análisis de Datos  
+* Ciencia de Datos  
+* Big Data  
+* Inteligencia Artificial  
+
+**Colaboradores:**  
+Alejandro Briceño  
+Wilber Quillca  
+Wadid Castilla
 
 
 
