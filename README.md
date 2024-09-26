@@ -33,6 +33,15 @@ con la instrucción: **pip install virtualenv**
 Es indispensable, tener instalado el lenguaje Python, versión 3.11 o superior, antes de crear el entorno virtual.
 Para crear el entorno virtual, escribimos la siguiente instrucción: **python -m virtualenv venv**  
 ![image](https://github.com/user-attachments/assets/6e771e70-71f4-4a59-9e3d-a9f12d805cab)
+17. Ahora procesa a activar el entorno virtual con la instrucción: **venv\Scripts\activate**
+![image](https://github.com/user-attachments/assets/0e3b9536-25c4-4660-a98e-adb341e9b548)
+Si la activación fue coorecta, al lado izquierdo del Prompt debe aparecer: **(venv)**
+En caso no aparezca, repita la secuencia relativa al entorno virtual.
+18. Ahora proceda a instalar las dependencias del Proyecto, identificadas en **requiremets.txt**
+
+20. 
+
+
 
 
 
