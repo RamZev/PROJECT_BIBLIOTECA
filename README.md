@@ -52,7 +52,7 @@ Usuario: adm
 Contraseña: adm54321$$
 
 **Autor Principal:**  
-**Ricardo Ramos Zevallos**  
+**Ricardo Ramos Zevallos - RamZev**  
 pythondevs2024@gmail.com  
 +51 983981484  
 * Ingeniería de Sistemas  
