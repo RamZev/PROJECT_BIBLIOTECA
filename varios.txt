@@ -1,0 +1,11 @@
+pip freeze > requirements.txt
+
+pip install -r requirements.txt
+
+pip list
+
+git init
+git add .
+git commit -m "Primer Commit"
+git remote add origin https://github.com/RamZev/PROJECT_BIBLIOTECA.git
+git push -u origin main
